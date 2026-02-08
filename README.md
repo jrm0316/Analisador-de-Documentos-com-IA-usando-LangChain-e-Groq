@@ -36,7 +36,7 @@ Destaque técnico:
 Como executar o projeto
   1.) Clone o repositório:
 
-        git clone https://github.com/seu-usuario/analisador-documentos-langchain
+        git clone https://github.com/seu-usuario/Analisa-o-documento-e-o-texto-e-retorna-resumo-e-principais-pontos-com-LangChain-e-Groq
 
   2.) Instale as dependências:
 
