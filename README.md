@@ -24,9 +24,13 @@ Tecnologias e conceitos utilizados
 
 Estrutura do projeto
 projeto/
+
 ├── analisador_documento_ia.py
+
 ├── dados.txt
+
 ├── .env
+
 └── README.md
 
 
